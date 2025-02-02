@@ -16,13 +16,13 @@ This project analyzes bike rental data in three major cities: **Chicago, New Yor
 
 The project relies on three **CSV** data files containing information about bike rental trips, such as:
 
-- Trip start and end times.
+- Trip start and end times. 
 - Start and end stations.
 - Duration of each trip.
 - User type (Subscriber or Customer).
 - Additional data such as gender and birth year (available for some cities only).
 
-## 🛠 Requirements
+## 🛠 Requirements 
 
 To ensure successful program execution, make sure you have:
 
@@ -34,7 +34,7 @@ To ensure successful program execution, make sure you have:
   tabulate
   ```
   Install them using:
-  ```sh
+  ```sh 
   pip install pandas numpy tabulate
   ```
 - Data files (`chicago.csv`, `new_york_city.csv`, `washington.csv`) placed in the same project directory.
